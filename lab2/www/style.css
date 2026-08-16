@@ -1,0 +1,31 @@
+h3 {
+    color: cornflowerblue
+}
+
+.container {
+    color: darkmagenta;
+    border-style: dashed;
+    border-color: darkseagreen;
+    border-radius: 10px;
+    border-width: 1px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.container-bg {
+    background-color: lightpink;
+}
+
+.my-font {
+    font-family: "Itim", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+#container-id {
+    color: darkmagenta;
+    margin: 50px;
+}
