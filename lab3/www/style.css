@@ -1,0 +1,66 @@
+body {
+    bgcolor: rgb(255, 223, 227);
+    margin: 20px;
+    padding: 20px;
+}
+
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
+    color: rgba(126, 18, 126, 0.838);
+}
+
+h2 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 24px;
+    color: darkmagenta;
+}
+
+h3 {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+    color: rgb(33, 4, 33);
+}
+
+.container {
+    color: rgb(22, 3, 22);
+    border-style: dashed;
+    border-color: rgb(125, 54, 128);
+    border-radius: 10px;
+    border-width: 1px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+
+.bg-container {
+    background-image: url("https://i.pinimg.com/736x/f6/e8/92/f6e8927b0a182b8e3e53e3c6148d5f39.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+#container-id {
+    color: darkmagenta;
+    margin: 50px;
+}
+
+.itim-regular-cursive {
+    font-family: "itim, cursive";
+    font-weight: 400;
+    font-style: regular;
+}
+
+.bg-portfolio {
+    background-image: url("https://i.pinimg.com/736x/32/28/d6/3228d6d8b4add513a1d6b4764ffee860.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
